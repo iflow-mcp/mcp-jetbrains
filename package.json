@@ -1,5 +1,5 @@
 {
-  "name": "@jetbrains/mcp-proxy",
+  "name": "@iflow-mcp/jetbrains-mcp-proxy",
   "version": "1.8.0",
   "description": "A MCP proxy to redirect requests to JetBrains IDEs",
   "main": "dist/src/index.js",
